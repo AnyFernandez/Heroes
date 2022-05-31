@@ -1,5 +1,6 @@
 # Proyecto Heroes
 
-# Daniela Fernandez
-# Caleb Romanos
 # Rocio Yapura - 21 - San Miguel 
+# Daniela Fernandez-25-lanus
+# Caleb Romanos - 34 - San Miguel
+
